@@ -9,4 +9,9 @@
 
 ## My first site on the Laravel
 
+### show main page of the blog
+### adding articles
+### delete articles
+### show page with article
+
 
